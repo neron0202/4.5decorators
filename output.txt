@@ -1,6 +1,4 @@
-/home/daniil/D_info/Netology/_4_advanced_python/5_decorators\output.txt 
-Wed Sep 29 01:07:49 2021. Название функции: minus. Аргументы: [4, 6]. Возвращаемое значение: -2 
-Wed Sep 29 01:07:49 2021. Название функции: minus. Аргументы: [5, 8]. Возвращаемое значение: -3 
-Wed Sep 29 01:07:49 2021. Название функции: person. Аргументы: ['John', 'Bull']. Возвращаемое значение: His name is John. His surname is Bull. 
-Wed Sep 29 01:07:49 2021. Название функции: person. Аргументы: ['Walter', 'Scott']. Возвращаемое значение: His name is Walter. His surname is Scott. 
-Wed Sep 29 01:07:49 2021. Название функции: calculate_salary. Аргументы: []. Возвращаемое значение: Функция calculate_salary запущена 
+Thu Oct  7 16:58:56 2021. Название функции: minus. Аргументы: [4, 6]. Возвращаемое значение: -2 
+Thu Oct  7 16:58:56 2021. Название функции: minus. Аргументы: [5, 8]. Возвращаемое значение: -3 
+Thu Oct  7 16:58:56 2021. Название функции: person. Аргументы: ['John', 'Bull']. Возвращаемое значение: His name is John. His surname is Bull. 
+Thu Oct  7 16:58:56 2021. Название функции: person. Аргументы: ['Walter', 'Scott']. Возвращаемое значение: His name is Walter. His surname is Scott. 

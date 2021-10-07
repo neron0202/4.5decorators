@@ -12,7 +12,7 @@ def decorator(old_function):
         with open('output.txt', 'a') as file:
             file.write(f'{current_datetime}. Название функции: {func_name}. Аргументы: {[*args]}. Возвращаемое '
                        f'значение: {old_function(*args, **kwargs)} \n')
-        return
+        return result
     return new_function
 
 @decorator
